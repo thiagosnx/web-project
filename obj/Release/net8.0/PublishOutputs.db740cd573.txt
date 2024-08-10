@@ -1,0 +1,13 @@
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.exe
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\appsettings.Development.json
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\appsettings.json
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.dll
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.deps.json
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.pdb
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\c-sharp\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
